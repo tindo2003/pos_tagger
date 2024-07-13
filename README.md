@@ -1,0 +1,3 @@
+- implementing https://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/hmms.pdf and https://aclanthology.org/A00-1031.pdf
+- heavily relied on nltk/tag/tnt.py
+- inspired by https://github.com/stathwang/POS-Taggers 
